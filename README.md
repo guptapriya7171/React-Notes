@@ -16,5 +16,5 @@
        -- we can prefill data in our local storage<br>
        
    <h3>Lifecycle of a Redux</h3>   
-   <p>Actions always move in uniderectional way that is in clockwise direction.<p>
+   <p>Actions only describe what happened, but don't describe how the application's state changes. Actions always move in uniderectional way that is in clockwise direction. Here Reducer will specifies how the application's state changes in response to actions sent to the store.<p>
 ![reactArchitecture](https://user-images.githubusercontent.com/96413187/198951659-9a73bceb-d901-42d1-b518-ac6659cc4e38.png)
