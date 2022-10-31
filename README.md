@@ -26,5 +26,5 @@
    i.<b> Same Input, Same Output</b>: For the same input, the output must be same.<br/>
    ii.<b> Scope of the variable </b>: The function must rely on the input within the function.<br/>
    iii.<b> Cannot create any side effects</b> :  We cannot manipulate dom inside of it or called an ajax function.<br/>
-   <i>Notes: A pure function can be impure using a shallow copy of an input argument</i>
+   <i>Notes: A pure function can be made impure using by changing the shallow copy of an input argument</i>
    
