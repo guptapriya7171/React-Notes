@@ -7,10 +7,14 @@
    To make it possible, we need to install the Live server extension and then later press on the Go Live option in the bottom-most part of the vs code interface. 
 3. <b>Redux</b>
    Redux is a tool for a state management. In react application, we have several components with their respective states. So for managing and passing those data we can take the help of redux.
-   <h3>Features</h3>
+   <h3>React Features</h3>
    1. Redux is predictable<br>
          -- we do know from where the state is changing, why it is changing and who it is changing.<br>
    2. Easier to maintain<br>
         -- Easier to maintain because of a predefined properties.<br>
    3. Persistence of storage <br>
        -- we can prefill data in our local storage<br>
+       
+   <h3>Lifecycle of a Redux</h3>   
+   <p>Actions always move in uniderectional way that is in clockwise direction.<p>
+![reactArchitecture](https://user-images.githubusercontent.com/96413187/198951659-9a73bceb-d901-42d1-b518-ac6659cc4e38.png)
