@@ -23,6 +23,6 @@
 
    4.<b>Reducers</b>
       Reducers are pure functions. It will specifies how the application's state changes in response to actions sent to the store. For a functions to be pure functions, it's need to satisfy three principles.<br/>
-   i. Same Input, Same Output: For the same input, the output must be same.<br/>
-   ii Scope of the variable: The function must rely on the input within the function.<br/>
-   iii. Cannot create any side effects :  We cannot manipulate dom inside of it or called an ajax function.<br/>
+   i.<b> Same Input, Same Output</b>: For the same input, the output must be same.<br/>
+   ii.<b> Scope of the variable </b>: The function must rely on the input within the function.<br/>
+   iii.<b> Cannot create any side effects</b> :  We cannot manipulate dom inside of it or called an ajax function.<br/>
