@@ -30,5 +30,5 @@
    <i>Notes: A pure function can be made impure using by changing the shallow copy of an input argument</i><br/>
 
    5. <b>Store</b><br/>
-   Store: It is an object which provides the state of the application. This object is accessible with help of the provider in the files of the project. The only way to change the state inside it is to dispatch an action on it.<br/>
+    It is an object which provides the state of the application. This object is accessible with help of the provider in the files of the project. The only way to change the state inside it is to dispatch an action on it.<br/>
    
