@@ -7,7 +7,7 @@
    https://reactjs.org/docs/cdn-links.html and run the same on VS code. </br>
    To make it possible, we need to install the Live server extension and then later press on the Go Live option in the bottom-most part of the vs code interface. 
 3. <b>Redux</b>
-   Redux is a tool for a state management. It is used to manage the state of data and access them at different components level in the app. In redux, there are three parts as follows:Actions, Reducer & Store.<br>
+   Redux is a tool for a state management. It is used to manage the state of data and access them at different components level in the app. In redux, there are three parts as follows: Actions, Reducer & Store.<br>
    <h3>React Features</h3>
    i. Redux is predictable<br>
          -- we do know from where the state is changing, why it is changing and who it is changing.<br>
