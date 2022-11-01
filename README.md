@@ -4,7 +4,7 @@
    Following is React App Command :npx create-react-app <i>my-app</i><br>
    Be careful to put everything in smallcase.
 2. We can even include cdn link in our project:
-   https://reactjs.org/docs/cdn-links.html and run the same on Vs code. </br>
+   https://reactjs.org/docs/cdn-links.html and run the same on VS code. </br>
    To make it possible, we need to install the Live server extension and then later press on the Go Live option in the bottom-most part of the vs code interface. 
 3. <b>Redux</b>
    Redux is a tool for a state management. In react application, we have several components with their respective states. So for managing and passing those data we can take the help of redux.
