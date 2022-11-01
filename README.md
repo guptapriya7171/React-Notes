@@ -22,7 +22,7 @@
 
 ![reactArchitecture](https://user-images.githubusercontent.com/96413187/198951659-9a73bceb-d901-42d1-b518-ac6659cc4e38.png)
 
-   4.<b>Reducers</b><br/>
+   4. <b>Reducers</b><br/>
       Reducers are pure functions. It will specifies how the application's state changes in response to actions sent to the store. For a functions to be pure functions, it's need to satisfy three principles.<br/>
    i.<b> Same Input, Same Output</b>: For the same input, the output must be same.<br/>
    ii.<b> Scope of the variable </b>: The function must rely on the input within the function.<br/>
