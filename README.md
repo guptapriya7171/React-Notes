@@ -1,6 +1,9 @@
 # React-Notes
 React is a library that helps to create a single page application. A Single page application is a kind of application that loads at a single time and other dynamic functions is carried out by the javascript framework. It is maintained by the facebook organization and is very popular nowadays. 
 
+Before starting with redux, it is really important one must know the basics of javascript. So to know more on javascript please carry the reference of the given link as follows: https://www.w3schools.com/js/
+React js Doc : https://reactjs.org/
+
 1. Inside of a
    <b> VS code sde</b><br>
    Following is React App Command : npx create-react-app <i>my-app</i><br> OR
