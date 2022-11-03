@@ -3,7 +3,7 @@ React is a library that helps to create a single page application. A Single page
 
 1. Inside of a
    <b> VS code sde</b><br>
-   Following is React App Command :npx create-react-app <i>my-app</i><br>
+   Following is React App Command : npx create-react-app <i>my-app</i><br> OR
    npm create-react-app <i>my-app</i>(this will install whole packages)<br>
    Be careful to put everything in smallcase.
 2. We can even include cdn link in our project:
