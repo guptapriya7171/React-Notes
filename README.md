@@ -1,7 +1,10 @@
 # React-Notes
+React is a library that helps to create a single page application. A Single page application is a kind of application that loads at a single time and other dynamic functions is carried out by the javascript framework. It is maintained by the facebook organization and is very popular nowadays. 
+
 1. Inside of a
    <b> VS code sde</b><br>
    Following is React App Command :npx create-react-app <i>my-app</i><br>
+   npm create-react-app <i>my-app</i>(this will install whole packages)<br>
    Be careful to put everything in smallcase.
 2. We can even include cdn link in our project:
    https://reactjs.org/docs/cdn-links.html and run the same on VS code. </br>
