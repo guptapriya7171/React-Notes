@@ -22,6 +22,7 @@ React js Doc : https://reactjs.org/
         -- Easier to maintain because of a predefined properties.<br>
    iii. Persistence of storage <br>
        -- we can prefill data in our local storage<br>
+ 4. To create a router, follow up the offcial documentation:https://v5.reactrouter.com/web/guides/quick-start
        
    <h3>Lifecycle of a Redux</h3>   
    <p>Actions only describe what happened, but don't describe how the application's state changes. Actions always move in uniderectional way that is in clockwise direction. <p>
