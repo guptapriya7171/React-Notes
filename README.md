@@ -12,7 +12,7 @@ React js Doc : https://reactjs.org/
    Shortcut to replace a bunch of words or open a replace tab : ctrl + shift +h
 2. We can even include cdn link in our project:
    https://reactjs.org/docs/cdn-links.html and run the same on VS code. </br>
-   To make it possible, we need to install the Live server extension and then later press on the Go Live option in the bottom-most part of the vs code interface. 
+   To make it possible, we need to install the Live server extension and then later press on the Go Live option in the bottom-most part of the vs code interface. <br>
 3. <b>Redux</b>
    Redux is a tool for a state management. It is used to manage the state of data and access them at different components level in the app. In redux, there are three parts as follows: Actions, Reducer & Store.<br>
    <h3>React Features</h3>
@@ -22,8 +22,7 @@ React js Doc : https://reactjs.org/
         -- Easier to maintain because of a predefined properties.<br>
    iii. Persistence of storage <br>
        -- we can prefill data in our local storage<br>
- 4. To create a router, follow up the offcial documentation:https://v5.reactrouter.com/web/guides/quick-start
-       
+ 
    <h3>Lifecycle of a Redux</h3>   
    <p>Actions only describe what happened, but don't describe how the application's state changes. Actions always move in uniderectional way that is in clockwise direction. <p>
    
@@ -39,4 +38,7 @@ React js Doc : https://reactjs.org/
 
    5. <b>Store</b><br/>
     It is an object which provides the state of the application. This object is accessible with help of the provider in the files of the project. The only way to change the state inside it is to dispatch an action on it.<br/>
+   
+   6. To create a router, follow up the offcial documentation:https://v5.reactrouter.com/web/guides/quick-start
+       
    
