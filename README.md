@@ -39,6 +39,7 @@ React js Doc : https://reactjs.org/
    5. <b>Store</b><br/>
     It is an object which provides the state of the application. This object is accessible with help of the provider in the files of the project. The only way to change the state inside it is to dispatch an action on it.<br/>
    
-   6. To create a router, follow up the offcial documentation:https://v5.reactrouter.com/web/guides/quick-start
+   6. To create a router, follow up the offcial documentation: https://v5.reactrouter.com/web/guides/quick-start
+      Please make changes as per the version changes.
        
    
