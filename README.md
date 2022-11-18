@@ -39,6 +39,10 @@ React js Doc : https://reactjs.org/
    5. <b>Store</b><br/>
     It is an object which provides the state of the application. This object is accessible with help of the provider in the files of the project. The only way to change the state inside it is to dispatch an action on it.<br/>
    
+   <h3>Simple Explaination</h3>
+   i. An action is a plain object that desccribes the intention to cause change.
+   ii. A reducer is a function that determines the changes to an application's state return the new state and tell the store how to do it. It uses the action it receives to determine the changes.
+   
    6. To create a router, follow up the offcial documentation: https://v5.reactrouter.com/web/guides/quick-start
       Please make changes as per the version changes.
        
