@@ -47,3 +47,5 @@ React js Doc : https://reactjs.org/
       Please make changes as per the version changes.
        
    7. Deployement Documentation :  https://create-react-app.dev/docs/deployment/#github-pages
+   8. React Lifecycle Component
+   ![CaptureRecent](https://user-images.githubusercontent.com/96413187/203803296-f8e6ca0c-90bb-4c7a-8228-da73c59eb643.PNG)
