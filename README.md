@@ -1,6 +1,29 @@
 # React-Notes
 React is a Javascript library that helps to create a single page application. A <b>single page application</b> is a kind of application that loads at a single time and other dynamic functions is carried out by the javascript framework. It is maintained by the facebook organization and is very popular nowadays. 
 
+## React elements
+An element describes what you want to see on the screen.<br/>
+React elements are plain objects, and are cheap to create. <br/>
+React DOM takes care of updating the DOM to match the React elements.<br/>
+
+## React components
+Components let you split the UI into independent, reusable pieces, and think about each piece in isolation. <br/>
+Conceptually, components are like JavaScript functions. They accept arbitrary inputs (called “props”) <br/>
+and return React elements describing what should appear on the screen.<br/>
+
+The simplest way to define a component is to write a JavaScript function,<br/>
+because it accepts a single “props” (which stands for properties) object argument with data and returns a React element.<br/>
+Components can refer to other components in their output.<br/>
+This lets us use the same component abstraction for any level of detail.<br/>
+
+## Props
+Whether you declare a component as a function or a class, it must never modify its own props.<br/>
+Such functions are called “pure” because they do not attempt to change their inputs, and always return the same result for the same inputs.<br/>
+In contrast, this function is impure because it changes its own input.<br/>
+All React components must act like pure functions with respect to their props.<br/>
+
+
+
 Before starting with redux, it is really important one must know the basics of javascript. So to know more on javascript please carry the reference of the given link as follows: https://www.w3schools.com/js/
 React js Doc : https://reactjs.org/
 
