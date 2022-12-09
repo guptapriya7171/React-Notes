@@ -27,7 +27,20 @@ Such functions are called “pure” because they do not attempt to change their
 In contrast, this function is impure because it changes its own input.<br/>
 All React components must act like pure functions with respect to their props.<br/>
 
+## Handling Events
+Handling events with React elements is very similar to handling events on DOM elements.<br/>
+There are some syntax differences:<br/>
+React events are named using camelCase, rather than lowercase.<br/>
+With JSX you pass a function as the event handler, rather than a string.<br/>
+For example, the HTML:<br/>
+<button onclick="activateLasers()"><br/>
+  Activate Lasers<br/>
+</button><br/>
+is slightly different in React:<br/>
 
+<button onClick={activateLasers}><br/>
+  Activate Lasers<br/>
+</button><br/>
 
 Before starting with redux, it is really important one must know the basics of javascript. So to know more on javascript please carry the reference of the given link as follows: https://www.w3schools.com/js/
 React js Doc : https://reactjs.org/
