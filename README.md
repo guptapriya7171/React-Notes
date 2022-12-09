@@ -42,6 +42,16 @@ is slightly different in React:<br/>
   Activate Lasers<br/>
  &lt;/button> &gt;<br/>
 
+## Conditional Rendering
+Conditional rendering in React works the same way conditions work in JavaScript. <br/>
+Use JavaScript operators like if or the conditional operator to create elements representing the current state, <br/>
+and let React update the UI to match them.<br/>
+
+## Element Variables
+You can use variables to store elements.<br/>
+This can help you conditionally render a part of the component while the rest of the output doesn’t change.<br/>
+
+
 Before starting with redux, it is really important one must know the basics of javascript. So to know more on javascript please carry the reference of the given link as follows: https://www.w3schools.com/js/
 React js Doc : https://reactjs.org/
 
