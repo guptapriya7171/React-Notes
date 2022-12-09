@@ -15,6 +15,10 @@ The simplest way to define a component is to write a JavaScript function,<br/>
 because it accepts a single “props” (which stands for properties) object argument with data and returns a React element.<br/>
 Components can refer to other components in their output.<br/>
 This lets us use the same component abstraction for any level of detail.<br/>
+In applications with many components, it’s very important to free up resources taken by the components when they are destroyed.<br/>
+We want to set up a timer whenever the Clock is rendered to the DOM for the first time. This is called “mounting” in React.<br/>
+We also want to clear that timer whenever the DOM produced by the Clock is removed. This is called “unmounting” in React.<br/>
+We can declare special methods on the component class to run some code when a component mounts and unmounts.<br/>
 
 ## Props
 Whether you declare a component as a function or a class, it must never modify its own props.<br/>
